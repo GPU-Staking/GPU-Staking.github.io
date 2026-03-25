@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Disallow: /gpu-staking/
+Sitemap: https://gpu-staking.github.io/sitemap.xml
